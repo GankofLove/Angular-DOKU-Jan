@@ -1,6 +1,6 @@
 ## CSS Selektoren
 
-![ng1](./assets/ng%201.png)
+![ng1](/assets/ng1.png)
 
 
 
@@ -11,7 +11,7 @@ In anderen Artikeln sind Ihnen vielleicht einige verschiedene Selektoren begegne
 
 In CSS werden Selektoren in der CSS-Selektoren-Spezifikation definiert; wie jeder andere Teil von CSS müssen sie von Browsern unterstützt werden, um zu funktionieren. Die meisten Selektoren, auf die Sie stoßen werden, sind in der Level-3-Selektoren-Spezifikation und der Level-4-Selektoren-Spezifikation definiert, die beide ausgereifte Spezifikationen sind, daher finden Sie eine hervorragende Browserunterstützung für diese Sselektoren.
 
-![css selektor](./assets/css%20selektor.png)
+![css selektor](/assets/selektorCSS.png)
 
 <br>
 
