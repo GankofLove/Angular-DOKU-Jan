@@ -1,10 +1,24 @@
+
+
+
 # Angular CLI
 
-### ng serve
-ausführen
+### Ausführen
+`ng serve`
 
-### ng s --port 5555
-ausführen auf bestimmten port
+### Ausführen auf bestimmten Port
+`ng s --port 5555`
+
+### Start JSON Server
+`json-server --watch db.json`
+
+### Angular 17
+
+From Angular v17 onwards, Standalone is now the new default for the CLI. So when you create a new project you won't have any modules in it if you don't specify anything.
+
+However, it is still possible to create a module-based app by using the `--no-standalone`` flag : 
+
+`ng new --no-standalone`
 
 ---
 

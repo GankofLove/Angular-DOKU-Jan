@@ -37,9 +37,9 @@ Als Vorbild dienen ua. bestehende Konzepte von diversen Anbietern (Github, HubSp
 
 - MongoDB
 - Node.js, NPM 
-- REST API (express.js) + JSON Kommunikation 
+- REST API (JSON Kommunikation)
 - Swagger?? 
-- JavaScript
+- Typescript
 - React/Angular (HTML/CSS)
 - Angular Material Bibliothek
 
@@ -56,6 +56,8 @@ Der Fokus des Projekts liegt klar im Frontend.
 - Stempel wird bei der Erstellung eines Tickets automatisch angangebracht. Stempel = Änderungsdatum + Autor (Genaues Stempelmuster noch unklar)
 
 ### Backend
+
+- Stempel: Titel, Author, Datum, Priorität, 
 
 Das Frontend kommuniziert mit dem Backend über REST (im JSON-Format), sodass das Backend mit der Firmeneigenen REST-Schnittstelle möglichst einfach ausgetauscht werden kann. **(Microservices??)**
 
@@ -83,19 +85,11 @@ Das Frontend kommuniziert mit dem Backend über REST (im JSON-Format), sodass da
 - Login
 
 
-### Fragen
+## Fragen
 
-- Welche IDE wird verwendet?
-- SQL oder NoSQL?
-- Welches bestehende Ticketsystem, wurde explizit im erstgespräch beim Namen genannt? // Vorbild Lösung
+- Warum muss ich den "Add new Workboard" Button zwei mal klicken, bis er funktioniert?
+---
 - Wie wird die Abfrage aus dem vorhandenen Backend der BMD aussehen? Damit ich meine Webstie darauf einstellen kann.
-
 --- 
- 
-Intern:
-
-- Anderl: Ideen zum "dynamischen" workboard? welche spezifischen Elemente könnten sich dafür eignen?
-- Mobile first ansatz mitmachen oder zu viel arbeit?
-- Tipp Anderl: rest + mongoDB
-
-
+- Wie kann ich neue instanzen einer komponente via button aus einer anderen komponente kreieren
+---
