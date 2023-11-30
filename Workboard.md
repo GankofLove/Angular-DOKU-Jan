@@ -83,12 +83,19 @@ Das Frontend kommuniziert mit dem Backend über REST (im JSON-Format), sodass da
 
 - Mobile First
 - Login
+- 
+
+### Welche Features könnten noch implementiert werden?
+
+- User-Kommentare zu jedem Ticket
+- priority Colour Indikator
+- Verschlüsselung der Daten mit hasches
+- Mobile Darstellung verbessern
 
 
 ## Fragen
 
-- Warum muss ich den "Add new Workboard" Button zwei mal klicken, bis er funktioniert?
----
+
 - Wie wird die Abfrage aus dem vorhandenen Backend der BMD aussehen? Damit ich meine Webstie darauf einstellen kann.
 --- 
 - Wie kann ich neue instanzen einer komponente via button aus einer anderen komponente kreieren
